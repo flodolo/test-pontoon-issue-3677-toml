@@ -11,7 +11,7 @@ msgstr ""
 
 #: src/amo/components/AddAddonToCollection/index.js:186
 msgid "Loading…"
-msgstr ""
+msgstr "Wird geladen…"
 
 #: src/amo/components/AddAddonToCollection/index.js:188
 msgid "Adding…"
