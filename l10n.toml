@@ -1,0 +1,14 @@
+locales = [
+    "fr",
+    "it"
+]
+
+[[paths]]
+reference = "templates/LC_MESSAGES/all_locales.pot"
+l10n = "{locale}/templates/LC_MESSAGES/all_locales.pot"
+locales = [ "fr", "it"]
+
+[[paths]]
+reference = "templates/LC_MESSAGES/special.pot"
+l10n = "{locale}/templates/LC_MESSAGES/special.pot"
+locales = [ "fr"]

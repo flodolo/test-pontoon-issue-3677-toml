@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: amo\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-10-20 09:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+#: src/amo/components/AddAddonToCollection/index.js:268
+#. This is a header for a list meaning Add to [some collection name]
+msgid "Add to…"
+msgstr ""
+
+#: src/amo/components/AddonAdminLinks/index.js:49
+#: src/amo/components/AddonMoreInfo/index.js:219
+#. This action allows the add-on developer or an admin to edit an add-on's properties.
+msgid "Edit add-on"
+msgstr ""
+
+#: src/amo/components/AddonAdminLinks/index.js:63
+#. This action allows an admin to maintain an add-on.
+msgid "Admin add-on"
+msgstr ""
+
+#: src/amo/components/AddonAdminLinks/index.js:77
+#. This action allows a reviewer to perform a content review of an add-on.
+msgid "Content review add-on"
+msgstr ""
+
+#: src/amo/components/AddonAdminLinks/index.js:85
+#. This action allows a reviewer to perform a review of a theme.
+msgid "Review theme"
+msgstr ""
+
+#: src/amo/components/AddonAdminLinks/index.js:87
+#. This action allows a reviewer to perform a review of an add-on's code.
+msgid "Review add-on code"
+msgstr ""
+
+#: src/amo/components/AddonBadges/index.js:126
+msgid "%(average)s (%(count)s review)"
+msgstr ""
+
+#: src/amo/components/AddonBadges/index.js:130
+msgid "%(average)s (%(count)s reviews)"
+msgstr ""
+
+#: src/amo/components/AddonBadges/index.js:157
+msgid "%(count)s User"
+msgid_plural "%(count)s Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/amo/components/AddonBadges/index.js:164
+msgid "No Users"
+msgstr ""

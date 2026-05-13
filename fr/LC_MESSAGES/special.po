@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: amo\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Pontoon\n"
+
+#. This is a header for a list meaning Add to [some collection name]
+#: src/amo/components/AddAddonToCollection/index.js:268
+msgid "Add to…"
+msgstr "Ajouter à…"
+
+#. This action allows the add-on developer or an admin to edit an add-on's properties.
+#: src/amo/components/AddonAdminLinks/index.js:49 src/amo/components/AddonMoreInfo/index.js:219
+msgid "Edit add-on"
+msgstr "Modifier le module"
+
+#. This action allows an admin to maintain an add-on.
+#: src/amo/components/AddonAdminLinks/index.js:63
+msgid "Admin add-on"
+msgstr "Gérer le module"
+
+#. This action allows a reviewer to perform a content review of an add-on.
+#: src/amo/components/AddonAdminLinks/index.js:77
+msgid "Content review add-on"
+msgstr "Revue du contenu du module"
+
+#. This action allows a reviewer to perform a review of a theme.
+#: src/amo/components/AddonAdminLinks/index.js:85
+msgid "Review theme"
+msgstr "Revue du thème"
+
+#. This action allows a reviewer to perform a review of an add-on's code.
+#: src/amo/components/AddonAdminLinks/index.js:87
+msgid "Review add-on code"
+msgstr "Revue du code de l’extension"
+
+#: src/amo/components/AddonBadges/index.js:126
+msgid "%(average)s (%(count)s review)"
+msgstr "%(average)s (%(count)s critique)"
+
+#: src/amo/components/AddonBadges/index.js:130
+msgid "%(average)s (%(count)s reviews)"
+msgstr "%(average)s (%(count)s critiques)"
+
+#: src/amo/components/AddonBadges/index.js:157
+msgid "%(count)s User"
+msgid_plural "%(count)s Users"
+msgstr[0] "%(count)s utilisateur·trice"
+msgstr[1] "%(count)s utilisateurs·trices"
+
+#: src/amo/components/AddonBadges/index.js:164
+msgid "No Users"
+msgstr "Aucun utilisateur"
