@@ -1,0 +1,30 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: amo\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
+
+#: src/amo/components/AddAddonToCollection/index.js:186
+msgid "Loading…"
+msgstr ""
+
+#: src/amo/components/AddAddonToCollection/index.js:188
+msgid "Adding…"
+msgstr ""
+
+#: src/amo/components/AddAddonToCollection/index.js:204
+msgid "Select a collection…"
+msgstr ""
+
+#: src/amo/components/AddAddonToCollection/index.js:211
+msgid "Create new collection"
+msgstr ""
+
+#: src/amo/components/AddAddonToCollection/index.js:252
+msgid "Added to %(collectionName)s"
+msgstr ""
